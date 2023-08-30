@@ -3,3 +3,6 @@ This version includes - clean architecture based folder structure in lib and tes
 
 ## 0.0.2
 This version includes - minor fix.
+
+## 0.0.3
+This version includes - minor fix.

@@ -13,7 +13,7 @@ Easily scaffold folders based on the Clean Architecture in your Flutter project 
 
 ```yaml
 dependencies:
-  clean_architecture_scaffold: ^0.0.1
+  clean_architecture_scaffold: ^0.0.3
 ```
 
 2. Install the package:
