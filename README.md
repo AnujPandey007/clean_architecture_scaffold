@@ -13,7 +13,7 @@ Easily scaffold folders based on the Clean Architecture in your Flutter project 
 
 ```yaml
 dependencies:
-  clean_architecture_scaffold: ^0.0.4
+  clean_architecture_scaffold: ^0.0.5
 ```
 
 2. Install the package:
@@ -27,7 +27,7 @@ flutter pub get
 Use the `clean_architecture_scaffold` command after installation to generate the folder structure for your feature:
 
 ```bash
-flutter clean_architecture_scaffold -f FEATURE_NAME
+dart run clean_architecture_scaffold:main -f FEATURE_NAME
 ```
 
 This reduces boilerplate code and ensures you have the correct directory structure set up for implementing features using Clean Architecture.
