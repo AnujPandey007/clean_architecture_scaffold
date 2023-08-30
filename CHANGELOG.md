@@ -15,3 +15,6 @@ This version includes - minor fix.
 
 ## 0.0.6
 This version includes - minor fix.
+
+## 0.0.7
+This version includes - minor fix.

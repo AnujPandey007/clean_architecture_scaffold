@@ -1,6 +1,6 @@
 name: clean_architecture_scaffold
 description: Package that can create folders based on clean architecture.
-version: 0.0.6
+version: 0.0.7
 homepage: https://github.com/AnujPandey007/clean_architecture_scaffold
 
 environment:

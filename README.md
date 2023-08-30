@@ -12,7 +12,7 @@ Add the package to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  clean_architecture_scaffold: ^0.0.6
+  clean_architecture_scaffold: ^0.0.7
 ```
 
 ## Usage
